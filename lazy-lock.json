@@ -1,6 +1,6 @@
 {
   "Comment.nvim": { "branch": "master", "commit": "0236521ea582747b58869cb72f70ccfa967d2e89" },
-  "LazyVim": { "branch": "main", "commit": "f086bcde253c29be9a2b9c90b413a516f5d5a3b2" },
+  "LazyVim": { "branch": "main", "commit": "530e94a9fa19577401e968a9673282c3d79f01e3" },
   "LuaSnip": { "branch": "master", "commit": "b152822e1a4bafb6bdf11a16cc26525cbd95ee00" },
   "SchemaStore.nvim": { "branch": "main", "commit": "26d27cf72a0164cb5a25d7b7ceedbe9a72511932" },
   "bufferline.nvim": { "branch": "main", "commit": "73540cb95f8d95aa1af3ed57713c6720c78af915" },
@@ -30,7 +30,7 @@
   "mini.indentscope": { "branch": "main", "commit": "a8274b6ea2d868198d27bd91a31ed5ea3a6a5744" },
   "mini.pairs": { "branch": "main", "commit": "5c975d8f68dc1e11bf4b20ced71e7987ed782513" },
   "neo-tree.nvim": { "branch": "v3.x", "commit": "7aad1bf3f6b849cbf108e02c55ad4d701cb4d33a" },
-  "neoconf.nvim": { "branch": "main", "commit": "ba3503e246ea687732e51f7f9878e653e2e2039b" },
+  "neoconf.nvim": { "branch": "main", "commit": "d4a48c2a6fdeec138605cee4eb6f8c6fafd0b3ed" },
   "neodev.nvim": { "branch": "main", "commit": "ce9a2e8eaba5649b553529c5498acb43a6c317cd" },
   "noice.nvim": { "branch": "main", "commit": "0cbe3f88d038320bdbda3c4c5c95f43a13c3aa12" },
   "nui.nvim": { "branch": "main", "commit": "cbd2668414331c10039278f558630ed19b93e69b" },
